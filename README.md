@@ -18,4 +18,4 @@ Temario, apuntes y ejercicios del módulo de Desarrollo de Aplicaciones Web (DAW
 
 Todo el material está recogido de la web personal de José Luis Comesaña:
 
-* [SitioLibre](https://github.com/username/repo/blob/branch/docs/more_words.md) - José Luis Comesaña
+* [SitioLibre](http://www.sitiolibre.com/) - José Luis Comesaña
