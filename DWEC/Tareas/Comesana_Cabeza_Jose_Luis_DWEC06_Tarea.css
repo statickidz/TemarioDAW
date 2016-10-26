@@ -1,0 +1,48 @@
+.tablerodibujo {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	width: auto;
+}
+.tablerodibujo td {
+	width: 10px;
+	height:10px;
+	margin: 0px;
+	padding: 0px;
+}
+.color1 {
+	background-color: #FF0;
+}
+.color2 {
+	background-color: #0F0;
+}
+.color3 {
+	background-color: #000;
+}
+.color4 {
+	background-color: #F00;
+}
+.color5 {
+	background-color: #06C;
+}
+.color6 {
+	background-color: #FFF;
+}
+
+#paleta td{
+	width: 35px;
+	height: 20px;
+}
+
+#pincel{
+	text-align: center;
+}
+
+.seleccionado{
+	border: medium solid #939;
+}
